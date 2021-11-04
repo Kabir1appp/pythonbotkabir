@@ -356,4 +356,4 @@ async def rphelp(ctx):
     await ctx.channel.send(embed=emBed)
 
 
-bot.run('OTAxMDc5NzkwNTIwNTIwNzA0.YXKp8w.jTYVw1o6zG3yiYTFmkWH0M2dWto')
+bot.run('OTAxMDc5NzkwNTIwNTIwNzA0.YXKp8w.KFEo0CaHxM6Rr3kXbj-R_xtG9-o')
