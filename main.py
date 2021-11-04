@@ -1,8 +1,8 @@
+import discord
 from asyncio.queues import Queue
 from re import search
 from typing import MutableSequence
 from asyncio.base_events import Server
-import discord
 from discord import voice_client
 from discord import guild
 from discord.member import VoiceState
